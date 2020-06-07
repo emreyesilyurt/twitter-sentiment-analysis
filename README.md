@@ -18,3 +18,15 @@ It contains the following 6 fields:
 * flag: The query (lyx). If there is no query, then this value is NO_QUERY.
 * user: the user that tweeted (robotickilldozr)
 * text: the text of the tweet (Lyx is cool)
+
+## Libraries Used
+
+* Sklearn
+* Pandas
+* Numpy
+* Seaborn
+* Pickle
+* Matplotlib
+* Nltk
+* re
+* Wordcloud
